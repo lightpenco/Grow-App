@@ -1,2 +1,0 @@
-# Grow-App
-Service APP
